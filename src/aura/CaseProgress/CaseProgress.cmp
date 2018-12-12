@@ -1,0 +1,9 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes">
+    <lightning:progressIndicator currentStep="3" type="path" variant="base">
+        <lightning:progressStep label="Initiated" value="1"/>
+        <lightning:progressStep label="In Progress" value="2"/>
+        <lightning:progressStep label="Resolved by ChatBot" value="3"/>
+        <lightning:progressStep label="Resolved" value="4"/>
+        <lightning:progressStep label="Closed" value="5"/>
+    </lightning:progressIndicator>
+</aura:component>

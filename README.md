@@ -1,2 +1,2 @@
 # SwarmPOC
-ParadigmX Hackathon report for Team Get Pumped
+ParadigmX Hackathon repository for Team Get Pumped
